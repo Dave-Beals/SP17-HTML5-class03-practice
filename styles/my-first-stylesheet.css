@@ -1,0 +1,43 @@
+html {
+  font-family: arial;
+  font-size: 16px;
+}
+
+body {
+  background-color: rgba(157, 159, 173, 1);
+}
+
+.independence-hall-image {
+  margin: 0 auto 0;
+  width: 100%;
+  padding: 2rem;
+  background-color: rgba(63, 70, 120, 1);
+}
+
+.bill-title {
+  font-size: 4rem;
+  font-family: cursive;
+  text-align: center;
+}
+
+.subheader {
+  background-color: white;
+  text-align: center;
+  border-bottom: 2px solid blue;
+}
+
+.p-about {
+  text-align: center;
+}
+
+.amendments {
+  font-size: 2rem;
+  font-family: cursive;
+  color: white;
+  text-align: center;
+  padding: 0 1rem 0;
+}
+
+.amendments::first-letter {
+  font-size: 3rem;
+}
